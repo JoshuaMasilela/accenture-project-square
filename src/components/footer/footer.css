@@ -1,0 +1,65 @@
+.footer-container {
+    background-color: #70259B;
+    height: 22em;
+    /* Add any common styles for the entire footer here */
+}
+
+.title-container {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.title-divider {
+    background-color: #D100C9;
+    /* Add styling for the title divider if needed */
+}
+.contact-info{
+    color: white;
+    padding-left: 30em;
+}
+.footer-title-container {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-title-left {
+    margin-right: 20px; /* Adjust the margin as needed */
+    flex: 2; /* Set a larger flex value for the left column */
+    color: white;
+}
+
+.footer-address {
+    flex: 1; /* Set a smaller flex value for the right column */
+    color: white;
+}
+
+.array-data {
+    display: flex;
+    justify-content: space-between;
+}
+.slogan-text{
+    color:white;
+}
+
+/* Update the CSS for the cardData container */
+.card-data-container {
+    flex: 2; /* Set a larger flex value for the cardData container */
+    display: flex;
+    justify-content: space-between; /* Adjust as needed */
+    align-items: center; /* Adjust as needed */
+    padding:18px;
+}
+
+.footer-item {
+    /* Add any styling for the individual items as needed */
+    padding-left: 8px; /* Adjust as needed */
+    color: white;
+}
+
+
+.extra-data-container {
+    flex: 1; /* Set a smaller flex value for the extraData container */
+}
+
+/* Add any additional styling for the text and other elements as needed */

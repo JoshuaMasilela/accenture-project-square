@@ -1,0 +1,32 @@
+/* navbar.css */
+.app-bar {
+    background-color: #70259B;
+}
+
+.app-bar__title {
+    flex-grow: 1;
+}
+
+.app-bar__pages {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.app-bar-logo {
+    width: 150px;
+}
+
+.app-bar__page {
+    color: inherit;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.app-bar__button {
+    margin-left: 10px;
+    background-color: white;
+    border-radius: 50px;
+    color: #70259B;
+}

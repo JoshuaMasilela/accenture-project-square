@@ -1,0 +1,23 @@
+.title-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+.title-divider{
+    width: 40px;
+    height: 4px;
+    background-color: #70259B;
+    border: black;
+}
+
+.service-title{
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.service-desc{
+    font-size: 25px;
+}

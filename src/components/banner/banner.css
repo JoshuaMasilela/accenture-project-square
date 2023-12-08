@@ -1,0 +1,12 @@
+.banner-button{
+    background-color: #70259B;
+    color: white;
+    margin-top: 0.5em;
+    width: 147px;
+    height:41px;
+    border-radius: 50px;
+}
+.banner-button:hover{
+    background-color: #70259B;
+    color: white;
+}

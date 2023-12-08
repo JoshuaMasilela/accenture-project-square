@@ -1,0 +1,16 @@
+.csTitle-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+.cs-Title-divider{
+    width: 50px;
+    height: 4px;
+    background-color: #70259B;
+    border: black;
+}
+
+.cs-img{
+    padding: 10px
+}
